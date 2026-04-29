@@ -7,14 +7,14 @@ Role 단위로 모듈화하고 멱등성을 고려해 반복 가능한 인프라
 
 ---
 
-## 목표
+## 1. 목표
 
 수동 리소스 생성 없이 Ansible 단일 명령으로
 AWS 인프라 전체를 순차적으로 구축할 수 있는 환경을 구성합니다.
 
 ---
 
-## 인프라 구성 흐름
+## 2. 인프라 구성 흐름
 
 ```
 network → iam → security → app_origin → jenkins → loadbalancer → asg
@@ -27,7 +27,7 @@ ansible-playbook site.yml -e "action=main"
 
 ---
 
-## 담당 작업
+## 3. 담당 작업
 
 - AWS 인프라 전체 설계 및 Ansible Playbook 작성
 - MFA 기반 STS 임시 Credential 인증 구성
@@ -36,7 +36,7 @@ ansible-playbook site.yml -e "action=main"
 
 ---
 
-## 트러블슈팅
+## 4. 트러블슈팅
 
 **ASG Health Check 충돌 문제**
 
@@ -53,7 +53,7 @@ Public/Private Route Table을 루프로 한 번에 생성하고 서브넷에 연
 
 ---
 
-## 기술 스택
+## 5. 기술 스택
 
 `Ansible` `AWS` `VPC` `EC2` `ALB` `ASG` `IAM` `CodeDeploy` `S3`
 `amazon.aws 10.1.2` `community.aws 10.1.0`
