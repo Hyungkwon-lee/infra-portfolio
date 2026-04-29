@@ -32,7 +32,7 @@ GitHub → Maven → Docker Hub → kubectl 흐름의 CI/CD 파이프라인을 �
 
 → [상세내용](./01_kubernetes-platform-project/01_kubernetes-platform-project.md)
 
-→ [Repository](https://github.com/kHyungkwon-lee/kubernetes-platform-project)
+→ [Repository](https://github.com/Hyungkwon-lee/kubernetes-platform-project)
 
 ---
 
