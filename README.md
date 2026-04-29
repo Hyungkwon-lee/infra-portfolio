@@ -47,6 +47,7 @@ Role 단위로 모듈화하고 멱등성을 고려한 구성으로 반복 가능
 | 기술 | Ansible, AWS, amazon.aws, community.aws |
 
 → [상세내용](./02_ansible-iac-project/02_ansible-iac-project.md)
+
 → [Repository](https://github.com/Hyungkwon-lee/02_ansible-iac-project)
 
 ---
@@ -62,6 +63,7 @@ S3 → CodeDeploy → EC2 흐름의 AWS 배포 자동화를 구현했습니다.
 | 기술 | Jenkins, Docker, Docker Hub, AWS CodeDeploy, S3 |
 
 → [상세내용](./03_aws-deployment-project/03_aws-deployment-project.md)
+
 → [Repository](https://github.com/Hyungkwon-lee/03_aws-deployment-project)
 
 ---
