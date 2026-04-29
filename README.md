@@ -32,7 +32,7 @@ GitHub → Maven → Docker Hub → kubectl 흐름의 CI/CD 파이프라인을 �
 
 → [상세내용](./01_kubernetes-platform-project/01_kubernetes-platform-project.md)
 
-→ [Repository](https://github.com/kHyungkwon-lee/01_kubernetes-platform-project)
+→ [Repository](https://github.com/kHyungkwon-lee/kubernetes-platform-project)
 
 ---
 
@@ -48,7 +48,7 @@ Role 단위로 모듈화하고 멱등성을 고려한 구성으로 반복 가능
 
 → [상세내용](./02_ansible-iac-project/02_ansible-iac-project.md)
 
-→ [Repository](https://github.com/Hyungkwon-lee/02_ansible-iac-project)
+→ [Repository](https://github.com/Hyungkwon-lee/ansible-iac-project)
 
 ---
 
@@ -64,7 +64,7 @@ S3 → CodeDeploy → EC2 흐름의 AWS 배포 자동화를 구현했습니다.
 
 → [상세내용](./03_aws-deployment-project/03_aws-deployment-project.md)
 
-→ [Repository](https://github.com/Hyungkwon-lee/03_aws-deployment-project)
+→ [Repository](https://github.com/Hyungkwon-lee/aws-deployment-project)
 
 ---
 
