@@ -14,6 +14,8 @@
 
 ## 구성도
 
+<img src="./docs/hybrid-architecture.png" width="900">
+
 
 ---
 
