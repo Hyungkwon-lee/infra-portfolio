@@ -31,6 +31,7 @@ GitHub → Maven → Docker Hub → kubectl 흐름의 CI/CD 파이프라인을 �
 | 기술 | Kubernetes, Jenkins, Docker, MetalLB, ingress-nginx, NFS |
 
 → [상세내용](./01_kubernetes-platform-project/01_kubernetes-platform-project.md)
+
 → [Repository](https://github.com/kHyungkwon-lee/01_kubernetes-platform-project)
 
 ---
