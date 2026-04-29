@@ -3,7 +3,7 @@
 온프레미스 쿠버네티스 클러스터 환경에서 Jenkins 커스텀 이미지를 직접 설계하고,
 GitHub → Maven → Docker Hub → kubectl 흐름의 CI/CD 파이프라인을 구현한 프로젝트입니다.
 
-→ 상세 문서: [kubernetes-platform-project](https://github.com/Hyungkwon-lee/01_kubernetes-platform-project)
+→ 상세 문서: [kubernetes-platform-project](https://github.com/Hyungkwon-lee/kubernetes-platform-project)
 
 ---
 
