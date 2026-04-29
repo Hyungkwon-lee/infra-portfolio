@@ -3,7 +3,7 @@
 Ansible Playbook으로 AWS 인프라 전체를 코드로 자동화한 프로젝트입니다.
 Role 단위로 모듈화하고 멱등성을 고려해 반복 가능한 인프라 배포 환경을 구축했습니다.
 
-→ 상세 문서: [ansible-iac-project](https://github.com/Hyungkwon-lee/02_ansible-iac-project)
+→ 상세 문서: [ansible-iac-project](https://github.com/Hyungkwon-lee/ansible-iac-project)
 
 ---
 
