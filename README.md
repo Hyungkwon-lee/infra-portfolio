@@ -71,4 +71,4 @@ S3 → CodeDeploy → EC2 흐름의 AWS 배포 자동화를 구현했습니다.
 
 ## 발표 자료
 
-- [프로젝트 결과 보고서 PDF](./docs/이형권_프로젝트_결과_보고서.pdf)
+- [프로젝트 결과 보고서 PDF](docs/Project-Result-Report.pdf)
