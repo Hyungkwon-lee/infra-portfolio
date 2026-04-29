@@ -14,7 +14,11 @@
 
 ## 구성도
 
-![Architecture](./docs/architecture.png)
+### 온프레미스 인프라
+![온프레미스](./docs/onpremise-network.png)
+
+### AWS 인프라
+![AWS](./docs/aws-architecture.png)
 
 ---
 
